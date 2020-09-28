@@ -1,1 +1,3 @@
 # testmerge
+#testmerge&conflits
+REMOTE
